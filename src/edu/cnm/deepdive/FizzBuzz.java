@@ -16,7 +16,8 @@ public class FizzBuzz {
   public static final String FIZZ = "Fizz";
   /** {@link String} value indicating a number divisible by 5. */
   public static final String BUZZ = "Buzz";
-private class FizzBuzz{}
+
+
   /**
    * Computes and returns "Fizz", "Buzz", or a {@link String} representation of <code>value</code>,
    * depending on whether <code>value</code> is divisible by 3 or 5.
